@@ -1,5 +1,5 @@
 # MessageBoard
-Android Studio/Google Firebase App
+Android Studio + Google Firebase App
 
 To run:
   - Create new Android Studio app
